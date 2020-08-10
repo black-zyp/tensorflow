@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcab7677-ed61-42bb-8c3d-3711b2dac78f" name="默认" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tensorflow$demo_40_tf2.coverage" NAME="demo_40_tf2各种操作练习 Coverage Results" MODIFIED="1594955908763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_71__copy_.coverage" NAME="demo_71_手写数字问题(copy) Coverage Results" MODIFIED="1595061986558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_cutString.coverage" NAME="demo_cutString Coverage Results" MODIFIED="1589880347269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_RNN_.coverage" NAME="demo_RNN_情感分析 Coverage Results" MODIFIED="1592196411835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_127_VAE_teach.coverage" NAME="demo_127_VAE_teach Coverage Results" MODIFIED="1595495141680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$vae.coverage" NAME="vae Coverage Results" MODIFIED="1595495052341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson49-VAE实战" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_13__numpy.coverage" NAME="demo_13_回归问题实战_numpy Coverage Results" MODIFIED="1589168429264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_Tensor.coverage" NAME="demo_创建Tensor Coverage Results" MODIFIED="1590655957337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_36_.coverage" NAME="demo_36_前向传播实战 Coverage Results" MODIFIED="1592614368170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$sentiment_analysis_cell.coverage" NAME="sentiment_analysis_cell Coverage Results" MODIFIED="1592196039856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson45-RNN实战" />
+    <SUITE FILE_PATH="coverage/tensorflow$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1591438756054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_可视化" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_121_LSTM_.coverage" NAME="demo_121_LSTM_情感分析 Coverage Results" MODIFIED="1595384530071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_126_AE.coverage" NAME="demo_126_AE Coverage Results" MODIFIED="1595411040296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_79_.coverage" NAME="demo_79_自定义网络 Coverage Results" MODIFIED="1595067117351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_104__minist.coverage" NAME="demo_104_卷积神经网络_minist Coverage Results" MODIFIED="1595294400770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_CIFAR100_.coverage" NAME="demo_CIFAR100_卷积神经网络 Coverage Results" MODIFIED="1595229336337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_114_RNN_.coverage" NAME="demo_114_RNN_情感分析 Coverage Results" MODIFIED="1595324763805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_01_tensorflow_test.coverage" NAME="demo_01_tensorflow_test Coverage Results" MODIFIED="1594889577885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_127_VAE.coverage" NAME="demo_127_VAE Coverage Results" MODIFIED="1595495723007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_140_GAN.coverage" NAME="demo_140_GAN Coverage Results" MODIFIED="1596013644476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_122_GRU_.coverage" NAME="demo_122_GRU_情感分析 Coverage Results" MODIFIED="1592275786377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_76_metrics.coverage" NAME="demo_76_metrics Coverage Results" MODIFIED="1592793608778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_82_cifar10.coverage" NAME="demo_82_cifar10自定义网络 Coverage Results" MODIFIED="1595122909587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_70_.coverage" NAME="demo_70_函数优化实战 Coverage Results" MODIFIED="1592792253216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_71__copy___1_.coverage" NAME="demo_71_手写数字问题(copy) (1) Coverage Results" MODIFIED="1595131093669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow/visualization" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_18_tensorflow.coverage" NAME="demo_18_tensorflow基础 Coverage Results" MODIFIED="1586762082256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1591438981999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_可视化" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_140_GAN_teach.coverage" NAME="demo_140_GAN_teach Coverage Results" MODIFIED="1596073314912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_CIFAR10.coverage" NAME="demo_CIFAR10 Coverage Results" MODIFIED="1591605163439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_54_.coverage" NAME="demo_54_深度学习 Coverage Results" MODIFIED="1592792164599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_71_.coverage" NAME="demo_71_手写数字问题 Coverage Results" MODIFIED="1595060954346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_86_.coverage" NAME="demo_86_交叉验证 Coverage Results" MODIFIED="1595124639682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_140_GAN_TRAINING.coverage" NAME="demo_140_GAN_TRAINING Coverage Results" MODIFIED="1596102341204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_43_Top_k.coverage" NAME="demo_43_Top_k Coverage Results" MODIFIED="1590744195651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_60_.coverage" NAME="demo_60_二次求导 Coverage Results" MODIFIED="1591156136628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_.coverage" NAME="demo_多输出感知机梯度 Coverage Results" MODIFIED="1591498618895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow$main.coverage" NAME="main Coverage Results" MODIFIED="1591433510453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson28-可视化" />
+    <SUITE FILE_PATH="coverage/tensorflow$layer_model.coverage" NAME="layer_model Coverage Results" MODIFIED="1595066540867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson30-Keras高层API" />
+    <SUITE FILE_PATH="coverage/tensorflow$demo_104_resnet18.coverage" NAME="demo_104_resnet18 Coverage Results" MODIFIED="1595301707271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_tensorflow" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="demo_126_AE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_126_AE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="94" column="34" lean-forward="false" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_104_resnet18.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_104_resnet18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_104_resNet_cifar100.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_104_resNet_cifar100.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_104_卷积神经网络_minist.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_104_卷积神经网络_minist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_82_cifar10自定义网络.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_82_cifar10自定义网络.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_71_手写数字问题(copy).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_71_手写数字问题(copy).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_127_VAE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_127_VAE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2332">
+              <caret line="110" column="55" lean-forward="false" selection-start-line="110" selection-start-column="55" selection-end-line="110" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_140_GAN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_140_GAN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_140_GAN_teach.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_teach.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="82" column="37" lean-forward="false" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#376#1479#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_140_GAN_TRAINING.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_TRAINING.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#376#1555#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_01_tensorflow_test.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_18_手写数字.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_18_tensorflow基础.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_13_回归问题实战_numpy.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_测试安装.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/songs.txt" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_cutString.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_18_手写数字问题.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_创建Tensor.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_43_Top_k.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_36_前向传播实战.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_54_深度学习.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_60_二次求导.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_前向传播.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_多输出感知机梯度.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_70_函数优化实战.py" />
+        <option value="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson28-可视化/main.py" />
+        <option value="$PROJECT_DIR$/project_可视化/main.py" />
+        <option value="$PROJECT_DIR$/project_可视化/main2.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_CIFAR10.py" />
+        <option value="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson45-RNN实战/sentiment_analysis_cell.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_RNN_情感分析.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_121_LSTM_情感分析.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_40_tf2各种操作练习.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_71_手写数字问题.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_76_metrics.py" />
+        <option value="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson30-Keras高层API/layer_model.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_79_自定义网络.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_86_交叉验证.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_82_cifar10自定义网络.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_71_手写数字问题(copy).py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/visualization/demo_71_手写数字问题(copy).py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_CIFAR100_卷积神经网络.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_104_卷积神经网络_minist.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_104_resNet_cifar100.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_104_resnet18.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_104_resnet18_copy.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_114_RNN_情感分析.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_126_AE.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_122_GRU_情感分析.py" />
+        <option value="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson49-VAE实战/vae.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_127_VAE_teach.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_127_VAE.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_140_dataset.py" />
+        <option value="F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson51-WGAN实战/wgan.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_teach.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_TRAINING.py" />
+        <option value="$PROJECT_DIR$/learn_tensorflow/demo_140_GAN.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensorflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensorflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensorflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensorflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn_tensorflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Learn_app_package\workplace_Pycharm\tensorflow\learn_tensorflow\visualization" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Learn_app_package\workplace_Pycharm\tensorflow\data_file" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.demo_140_GAN_TRAINING">
+    <configuration default="false" name="demo_127_VAE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_tensorflow/demo_127_VAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo_127_VAE_teach" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_tensorflow/demo_127_VAE_teach.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo_140_GAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_tensorflow/demo_140_GAN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo_140_GAN_TRAINING" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_TRAINING.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo_140_GAN_teach" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_teach.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="tensorflow" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="不至于">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="文档">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.demo_127_VAE" />
+      <item index="1" class="java.lang.String" itemvalue="Python.demo_127_VAE_teach" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demo_140_GAN" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo_140_GAN_TRAINING" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo_140_GAN_teach" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.demo_140_GAN_TRAINING" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demo_140_GAN_teach" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demo_140_GAN" />
+        <item index="3" class="java.lang.String" itemvalue="Python.demo_127_VAE" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demo_127_VAE_teach" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcab7677-ed61-42bb-8c3d-3711b2dac78f" name="默认" comment="" />
+      <created>1586508767743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586508767743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18215811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17089306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22318527" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="查找" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_13_回归问题实战_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_18_tensorflow基础.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_40_tf2各种操作练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1493">
+          <caret line="89" column="14" lean-forward="false" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_54_深度学习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_60_二次求导.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_70_函数优化实战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson30-Keras高层API/layer_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson31-Keras模型保存与加载/save_load_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson30-Keras高层API/metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson30-Keras高层API/compile_fit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_86_交叉验证.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_79_自定义网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="58" column="40" lean-forward="false" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson32-Keras实战/keras_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/visualization/demo_82_cifar10自定义网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="93" column="25" lean-forward="false" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/visualization/demo_71_手写数字问题(copy).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="75" column="26" lean-forward="false" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_CIFAR10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson28-可视化/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="139" column="77" lean-forward="false" selection-start-line="137" selection-start-column="12" selection-end-line="139" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_71_手写数字问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="75" column="41" lean-forward="false" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_CIFAR100_卷积神经网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="111" column="48" lean-forward="false" selection-start-line="111" selection-start-column="48" selection-end-line="111" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_104_resnet18_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_114_RNN_情感分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_121_LSTM_情感分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_76_metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/AE_images/rec_epoch_0.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/AE_images/rec_epoch_1.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/AE_images/rec_epoch_2.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/AE_images/rec_epoch_3.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/AE_images/rec_epoch_5.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/AE_images/rec_epoch_6.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_122_GRU_情感分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/vae_images/sampled_epoch0.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/vae_images/sampled_epoch1.png" />
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/vae_images/sampled_epoch3.png" />
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson49-VAE实战/vae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="140" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_126_AE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="94" column="34" lean-forward="false" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_127_VAE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="110" column="55" lean-forward="false" selection-start-line="110" selection-start-column="55" selection-end-line="110" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/my_project_01/Lib/site-packages/scipy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson51-WGAN实战/gan_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson51-WGAN实战/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_140_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1100">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_127_VAE_teach.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="114" column="13" lean-forward="false" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson51-WGAN实战/wgan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/常用软件/百度网盘/Baidudownload/【第01部分 核心教程】2019年TensorFlow2.x入门与实战 3套/01.2019年深度学习框架TensorFlow2.0入门与实战（附讲义、代码、电子书）163课/00.配套资料（代码、讲义、电子书）/深度学习与TF-PPT和代码/深度学习与TensorFlow入门实战-源码和PPT/lesson51-WGAN实战/gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="70" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_teach.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="82" column="37" lean-forward="false" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#376#1479#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_140_GAN_TRAINING.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#376#1555#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_140_GAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_104_resnet18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_82_cifar10自定义网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_71_手写数字问题(copy).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_104_resNet_cifar100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_tensorflow/demo_104_卷积神经网络_minist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
