@@ -12,7 +12,7 @@
 
 数学公式示例：
 设 $X_i$ 表示Scrum应用前的满意度评分， $Y_i$ 表示Scrum应用后的满意度评分。
-我们可以计算这些评分的平均值 $\overline{X}$ , $\overline{Y}$ 和标准差 (s_X, s_Y)。
+我们可以计算这些评分的平均值 $(\overline{X},\overline{Y})$ 和标准差 (s_X, s_Y)。
 
 $$ \\overline{X} = \\frac{1}{n} \\sum_{i=1}^{n} X_i $$
 $$ \\overline{Y} = \\frac{1}{n} \\sum_{i=1}^{n} Y_i $$
