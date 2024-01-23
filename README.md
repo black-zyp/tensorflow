@@ -1,2 +1,2 @@
 # tensorflow
-$\frac{x}{y}$
+$X_i$
