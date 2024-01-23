@@ -30,11 +30,9 @@ $$ s_Y = \\sqrt{\\frac{1}{n-1} \\sum_{i=1}^{n} (Y_i - \\overline{Y})^2} $$
 数学公式示例：
 设 $D_{pre}$ 和 $D_{post}$ 分别代表Scrum实施前后需求确认周期的天数，我们可以使用配对样本t检验来判断周期是否有显著性减少。
 
-
 $$
 t = \frac{\overline{D}_{pre} - \overline{D}_{post}}{s_D / \sqrt{n}}
 $$
-
 
 其中， $\overline{D}_{pre}$ 和 $\overline{D}_{post}$ 是平均周期天数， $s_D$ 是样本标准差，n是样本数量。
 
