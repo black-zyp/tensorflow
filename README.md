@@ -53,3 +53,5 @@ $$ s_{\\Delta B} = \\sqrt{\\frac{1}{n-1} \\sum_{i=1}^{n} (\\Delta B_i - \\overli
 通过上述分析，结合实际的数据和数学公式的计算结果，可以得出Scrum在S项目中的应用效果，从而为论文的结论部分提供坚实的量化依据。
 
 $$ Q_{r}(\lambda, r)=\frac{2}{x^{2}} \sum_{n=1}^{\infty}(2 n+1) R_{r}\left(a_{n}+b_{n}\right) $$
+
+$$ s_{\Delta B}=\sqrt{\frac{1}{n-1}\sum_{i=1}^n(\Delta B_i-\overline{\Delta B})^2} $$
